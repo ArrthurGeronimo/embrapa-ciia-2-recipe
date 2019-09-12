@@ -1,0 +1,6 @@
+- ## Começando
+    - [Overview](/docs/{{version}}/overview)
+    - [Geral](/docs/{{version}}/visao-geral)
+    - [Instalando o Laravel](/docs/{{version}}/instalando-o-laravel)
+    - [Possíveis erros](/docs/{{version}}/possiveis-erros-do-laravel)
+    - [Instalando Adicionais](/docs/{{version}}/instalando-adicionais)
